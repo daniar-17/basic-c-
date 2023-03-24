@@ -1,0 +1,5 @@
+C:\DANIAR\LATE01\DANIAR N\JobSeeker\C# Latihan\Latihan Dasar\LatihanDasar\HasilPublish\Test 1\LatihanDasar.exe
+C:\DANIAR\LATE01\DANIAR N\JobSeeker\C# Latihan\Latihan Dasar\LatihanDasar\HasilPublish\Test 1\LatihanDasar.dll
+C:\DANIAR\LATE01\DANIAR N\JobSeeker\C# Latihan\Latihan Dasar\LatihanDasar\HasilPublish\Test 1\LatihanDasar.deps.json
+C:\DANIAR\LATE01\DANIAR N\JobSeeker\C# Latihan\Latihan Dasar\LatihanDasar\HasilPublish\Test 1\LatihanDasar.runtimeconfig.json
+C:\DANIAR\LATE01\DANIAR N\JobSeeker\C# Latihan\Latihan Dasar\LatihanDasar\HasilPublish\Test 1\LatihanDasar.pdb
