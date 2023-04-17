@@ -1,0 +1,10 @@
+item 1,10,20000,IDR
+item 2,20,4000,EUR
+item 3,5,50000,IDR
+item 4,6,24000,USD
+item 5,3,56000,IDR
+item 6,4,3000,EUR
+item 7,5,4000,USD
+item 8,5,4000,USD
+item 9,5,6000,IDR
+item 10,5,10000,USD
